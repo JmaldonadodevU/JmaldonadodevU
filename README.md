@@ -54,8 +54,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/JmaldonadodevU/JmaldonadodevU/output/snake.svg" alt="Snake animation" />
 
 ###
